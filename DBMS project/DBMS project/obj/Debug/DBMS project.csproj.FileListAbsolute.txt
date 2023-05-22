@@ -1,0 +1,33 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\DBMS project\DBMS project\bin\Debug\DBMS project.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\DBMS project\DBMS project\bin\Debug\DBMS project.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\DBMS project\DBMS project\obj\Debug\DBMS project.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\DBMS project\DBMS project\obj\Debug\DBMS_project.disconn.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\DBMS project\DBMS project\obj\Debug\DBMS_project.Form1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\DBMS project\DBMS project\obj\Debug\DBMS_project.payForm.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\DBMS project\DBMS project\obj\Debug\DBMS_project.photographer.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\DBMS project\DBMS project\obj\Debug\DBMS_project.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\DBMS project\DBMS project\obj\Debug\DBMS_project.Q4.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\DBMS project\DBMS project\obj\Debug\DBMS_project.report.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\DBMS project\DBMS project\obj\Debug\DBMS_project.report2.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\DBMS project\DBMS project\obj\Debug\DBMS project.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\DBMS project\DBMS project\obj\Debug\DBMS project.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\DBMS project\DBMS project\obj\Debug\DBMS project.pdb
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS project.exe
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS project.pdb
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\bin\Debug\DBMS project.exe
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\bin\Debug\DBMS project.pdb
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS_project.disconn.resources
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS_project.Form1.resources
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS_project.payForm.resources
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS_project.photographer.resources
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS_project.Properties.Resources.resources
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS_project.Q4.resources
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS_project.report.resources
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS_project.report2.resources
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS project.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS_project.mainForm.resources
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS_project.displayCust.resources
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS_project.login.resources
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS_project.sellerInfo.resources
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS_project.supp.resources
+C:\Users\user\Desktop\New folder\DBMS project\DBMS project\obj\Debug\DBMS project.csprojResolveAssemblyReference.cache
