@@ -1,10 +1,10 @@
 # Photography-Shop
 Assumptions about “Photography Shop” project:
-- Customers can buy products from the sellers . Also he can require a photoshoot from the photograoher.
-- The supplier is the middleman between the seller and the company. Which means that he gets the products form the company and sell it to the seller then seller will sell it to customer. 
+- Customers can buy products from the sellers . Also they can require a photoshoot from the photographer.
+- The supplier is the middleman between the seller and the company. Which means that he gets the products form the company and sells it to the seller then seller will sell it to customer. 
 - This project can be used at a Studio (offline usage) or as a tool that connects freelancer photographers with clients (online usage).
 - GUI will be user-friendly as much as possible.
-- A seller can manage Social media to promote for products.
+- A seller can manage social media to promote for products.
 - The program will be secured to ensure the privacy of our clients.
 - A client can preview a photo before being purchased but if he used it, he will be fined and restricted from buying photos again.
 - There are different prices for each photo. (4K is the most expensive ones)
